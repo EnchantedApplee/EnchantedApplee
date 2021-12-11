@@ -4,7 +4,7 @@ A little about me:
 💪 16 years old
 
 
-👋 Hey! I'm EnchantedApple and I code Skript, not sure you know what it is since its not an actual programming language. (I will be learning Java soon)
+👋 Hey! I'm EnchantedApple and I code Skript, not sure you know what it is since its not an actual programming language, I code html css and javascript too! (I will be learning Java soon)
 
 😀 I am experienced in Skript for over 2 years now. I even offer custom services!
 
