@@ -6,10 +6,10 @@ A little about me:
 
 👋 Hey! I'm EnchantedApple and I code Skript, not sure you know what it is since its not an actual programming language, I code html css and javascript too! (I will be learning Java soon)
 
-😀 I am experienced in Skript for over 2 years now. I even offer custom services!
+[Things I know how to code](bold)
 
-😮 My discord is EnchantedApple_#7199, Feel free to contact me if you need any help! (I wont make skripts for you)
-
-I will be giving some coding tips and codes! I will soon start uploading Skript tutorials on my Youtube channel!
+- Minecraft Plugins (Just started)
+- Websites
+- Minecraft plugins with Skript
 
 [Click Here](https://www.youtube.com/channel/UCTFKP3VY6wOgjWOJC7XN3KQ) for my Youtube Channel!
